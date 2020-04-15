@@ -60,7 +60,7 @@ https://graph.facebook.com/v6.0/me/messages
 
 ## Preview
 
-![Messenger bot receive and reply](https://raw.githubusercontent.com/vishwarajanand/FbMessengerBot/master/demos/preview.png "Messenger bot receive and reply")
+![Messenger bot receive and reply](https://raw.githubusercontent.com/vishwarajanand/FbMessengerBot/master/demos/message_preview.png "Messenger bot receive and reply")
 
 ## Demo Video
 
